@@ -1,24 +1,4 @@
-# 💫 About Me
 
-🔭 I’m currently working on **Document AI, Computer Vision & Generative AI**
-🏥 Building production AI systems for **Insurance & Healthcare**
-🤖 Working with **LLMs, OCR, Vision Models & AI Agents**
-☁️ Deploying and optimizing AI workloads on **AWS & GPUs**
-🌱 Currently exploring **Multimodal AI & Small Language Models**
-💬 Ask me about **Python, PyTorch, OCR, Computer Vision & LLMs**
-📫 Reach me: [adityagupta1807@gmail.com](mailto:adityagupta1807@gmail.com)
-⚡ Fun fact: **Gym & Bike Enthusiast**
-
-# 💫 About Me
-
-🔭 **Applied AI Engineer** working on Computer Vision, Document AI, OCR, and Generative AI
-🌱 Building **production-grade AI systems** for insurance and healthcare
-👯 Interested in **Computer Vision, Document Intelligence, LLMs, and AI Agents**
-💬 Ask me about **Python, Computer Vision, OCR, Document AI, PyTorch, AWS, and LLMs**
-📫 Reach me at [adityagupta1807@gmail.com](mailto:adityagupta1807@gmail.com)
-⚡ Fun fact: **Gym and bike enthusiast**
-
----
 
 ## 👨‍💻 About Me
 
