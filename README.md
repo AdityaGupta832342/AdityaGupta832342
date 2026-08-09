@@ -2,7 +2,7 @@
 [![](https://komarev.com/ghpvc/?username=AdityaGupta832342&color=009688&style=for-the-badge&label=Profile+Views)](https://abhishekkandel45.github.io/Githubprofiler/)
 
 
-I’m currently working as a Data Scientist @ Consint.ai, building production Document AI & Computer Vision systems for insurance and healthcare clients<br>I’m currently leading data orchestration for an IndiaAI-backed foundational SLM for Indian healthcare & insurance<br>I’m looking to collaborate on Document AI, OCR, and Computer Vision projects<br>Ask me about OCR pipelines, fraud detection, LLM inference optimization, books, anime<br>How to reach me: adityagupta1807@gmail.com<br>Pronouns: He/His<br>Fun fact: Gym and Bike Enthusiaist
+I’m currently working as a Data Scientist @ Consint.ai, building production Document AI & Computer Vision systems for insurance and healthcare clients<br>I’m currently leading data orchestration for an IndiaAI-backed foundational SLM for Indian healthcare & insurance<br>I’m looking to collaborate on Document AI, OCR, and Computer Vision projects<br>Ask me about OCR pipelines, fraud detection, LLM inference optimization, books, anime<br>How to reach me: adityagupta1807@gmail.com
 
 
 ## Social Profiles
