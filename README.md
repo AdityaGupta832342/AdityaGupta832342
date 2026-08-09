@@ -1,4 +1,4 @@
-[# About Me:
+# About Me:
 [![](https://komarev.com/ghpvc/?username=AdityaGupta832342&color=009688&style=for-the-badge&label=Profile+Views)](https://abhishekkandel45.github.io/Githubprofiler/)
 
 
