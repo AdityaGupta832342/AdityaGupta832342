@@ -1,4 +1,4 @@
-# About Me:
+[# About Me:
 [![](https://komarev.com/ghpvc/?username=AdityaGupta832342&color=009688&style=for-the-badge&label=Profile+Views)](https://abhishekkandel45.github.io/Githubprofiler/)
 
 
@@ -49,3 +49,4 @@ I’m currently working as a Data Scientist @ Consint.ai, building production Do
 
 
 <div align="center">Show some support by starring some of the repositories!</div>
+](https://leetcode.com/u/Darklight-user/)
